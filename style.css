@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+
+body {
+  background-image: url(image/desktop.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.resume-border {
+  height: 95vh;
+  width: 45vw;
+  opacity: 0.9;
+  background-color: #fff;
+  margin-top: 10px;
+  /* display: flex; */
+  /* align-items: center; */
+  /* justify-content: center; */
+}
