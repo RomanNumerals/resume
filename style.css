@@ -10,11 +10,12 @@ body {
 }
 
 .resume-border {
-  height: 95vh;
+  height: 1150px;
   width: 45vw;
   opacity: 0.9;
   background-color: #fff;
   margin-top: 10px;
+  margin-bottom: 10px;
   /* display: flex; */
   /* align-items: center; */
   /* justify-content: center; */
